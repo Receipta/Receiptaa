@@ -13,7 +13,7 @@ Blockchain-powered payment verification built on Stellar using Soroban smart con
 
 - **Contract Address:** `CDLYITDQBWS7YWD5SGVXED4S4PCZEJJAOODOQ3OFSKJV5HX4ZLKKFWGC`
 - **Network:** Stellar Testnet
-- **Deployed:** January 2025
+- **Deployed:** may 2026
 - **View on Stellar Expert:** [Contract Details](https://stellar.expert/explorer/testnet/contract/CDLYITDQBWS7YWD5SGVXED4S4PCZEJJAOODOQ3OFSKJV5HX4ZLKKFWGC)
 
 ### Try It Live
